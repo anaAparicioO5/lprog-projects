@@ -32,7 +32,3 @@ Este repositorio agrupa diferentes proyectos y ejercicios, cada uno enfocado en 
 - Intérprete de Prolog (SWI-Prolog)
 
 
-
-
-
-¿Necesitas adaptar este README a los archivos reales del repositorio? Avísame y puedo ajustarlo automáticamente si me indicas los nombres de carpetas o el listado de contenido actual.
