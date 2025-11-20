@@ -1,6 +1,6 @@
 # lprog-projects
 
-> Colección de proyectos y ejercicios desarrollados para la asignatura/programa de Lenguajes de Programación (o similar). Este repositorio reúne ejemplos prácticos, mini‑aplicaciones y experimentos que ilustran conceptos como paradigmas (imperativo, funcional, lógico, orientado a objetos), estructuras de datos, manejo de concurrencia, entrada/salida, pruebas y buenas prácticas.
+> Algunos proyectos y ejercicios desarrollados para la asignatura lógica informática. Este repositorio reúne ejemplos prácticos, mini‑aplicaciones y experimentos que ilustran conceptos como paradigmas (imperativo, funcional, lógico, orientado a objetos), estructuras de datos, manejo de concurrencia, entrada/salida, pruebas y buenas prácticas.
 
 ---
 
